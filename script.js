@@ -48,7 +48,7 @@ function iniciar(){
 
         }
     }
-    res.innerHTML=`Pessoa de ${idade} anos do genero ${genero}`
+    res.innerHTML=`Pessoa de ${idade} anos do gênero ${genero}`
     res.style.textAlign='center'
     res.appendChild(img)
 }
